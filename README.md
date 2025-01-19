@@ -1,1 +1,1 @@
-# NvdiaNIMRail
+# nvidia-nemoguardrails-poc
